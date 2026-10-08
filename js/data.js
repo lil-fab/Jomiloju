@@ -16,7 +16,7 @@ window.SITE = {
 
   /* Your live website address, used in the "Share on WhatsApp" message.
      Leave empty and the site uses whatever address it is opened on. */
-  siteUrl: "",
+  siteUrl: "jomiloju-the-surge.vercel.app",
 
   /* Her photo: put the image file in the assets folder and set its name here.
      Until the file exists, a placeholder shows instead. */
