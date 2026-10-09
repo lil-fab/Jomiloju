@@ -20,7 +20,7 @@ window.SITE = {
 
   /* Her photo: put the image file in the assets folder and set its name here.
      Until the file exists, a placeholder shows instead. */
-  photo: "assets/jommie.jpg",
+  photo: "assets/jommie.png",
 
   /* Testimonials — in progress. Add them here as they come in;
      each card needs a quote, a name and a title at minimum. */
