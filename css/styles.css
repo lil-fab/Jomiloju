@@ -53,7 +53,7 @@ p{margin:0}
 .btn-aqua{background:var(--aqua);color:var(--deep-950)}
 .btn svg{width:20px;height:20px;flex:none;fill:currentColor}
 .btn[aria-disabled="true"]{opacity:.5;pointer-events:none}
-
+a[data-locked]{opacity:.5;pointer-events:none;cursor:not-allowed}
 /* ---------- top bar ---------- */
 .bar{position:sticky;top:0;z-index:50;background:var(--deep-900);border-bottom:1px solid rgba(216,180,254,.2)}
 .bar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;min-height:64px;padding-block:8px}
